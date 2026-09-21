@@ -2,10 +2,10 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    "minecraft:warped_fungus"
+    "minecraft:pale_oak_sapling"
   ],
   "result": {
-    "count": 2,
-    "id": "minecraft:warped_wart_block"
+    "id": "minecraft:pale_oak_leaves",
+    "count": 2
   }
 }

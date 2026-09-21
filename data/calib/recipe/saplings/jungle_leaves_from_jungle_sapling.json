@@ -2,10 +2,10 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    "minecraft:spruce_sapling"
+    "minecraft:jungle_sapling"
   ],
   "result": {
-    "count": 2,
-    "id": "minecraft:spruce_leaves"
+    "id": "minecraft:jungle_leaves",
+    "count": 2
   }
 }
